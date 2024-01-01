@@ -1,0 +1,102 @@
+Natural language processing (NLP) refers to the branch of computer science and more specifically, 
+the branch of artificial intelligence or AI concerned with giving computers the ability to understand 
+text and spoken words in much the same way human beings can.
+
+NLP combines computational linguistics rule based modeling of human language with statistical, 
+machine learning, and deep learning models. Together, these technologies enable computers to process 
+human language in the form of text or voice data and to ‘understand’ its full meaning, complete with the 
+speaker or writer’s intent and sentiment.
+
+NLP drives computer programs that translate text from one language to another, respond to spoken 
+commands, and summarize large volumes of text rapidly—even in real time. There’s a good chance you’ve 
+interacted with NLP in the form of voice operated GPS systems, digital assistants, speech to text 
+dictation software, customer service chatbots, and other consumer conveniences. But NLP also plays a 
+growing role in enterprise solutions that help streamline business operations, increase employee 
+productivity, and simplify mission critical business processes.
+
+NLP tasks
+a)Speech recognition, also called speech to text, is the task of reliably converting voice data into text 
+data,
+
+b)Part of speech tagging, also called grammatical tagging, is the process of determining the part of 
+speech of a particular word or piece of text based on its use and context,
+
+c)Word sense disambiguation is the selection of the meaning of a word with multiple meanings through a 
+process of semantic analysis that determine the word that makes the most sense in the given context,
+
+d)Named entity recognition, or NEM, identifies words or phrases as useful entities,
+
+e)Co reference resolution is the task of identifying if and when two words refer to the same entity,
+
+f)Sentiment analysis attempts to extract subjective qualities attitudes, emotions, sarcasm, confusion, 
+suspicion from text,
+
+g)Natural language generation is sometimes described as the opposite of speech recognition or 
+speech to text; it's the task of putting structured information into human language.
+
+NLP tools and approaches
+The Python programing language provides a wide range of tools and libraries for attacking specific NLP 
+tasks: the Natural Language Toolkit, or NLTK, includes libraries for many of the NLP tasks listed above, 
+plus libraries for subtasks, such as 
+sentence parsing, word segmentation, stemming and lemmatization (methods of trimming words down to their 
+roots), and tokenization (for breaking phrases, sentences, paragraphs and passages into tokens that 
+help the computer better understand the text).
+
+Statistical NLP, machine learning, and deep learning
+Statistical NLP, which combines computer algorithms with machine learning and deep learning models 
+to automatically extract, classify, and label elements of text and voice data and then assign a 
+statistical likelihood to each possible meaning of those elements.
+
+NLP use cases
+a)Spam detection: You may not think of spam detection as an NLP solution, but the best spam detection 
+technologies use NLP's text classification capabilities to scan emails for language that often indicates 
+spam or phishing,
+
+b)Machine translation: Effective translation has to capture accurately the meaning and tone of the input language and 
+translate it to text with the same meaning and desired impact in the output language,
+
+c)Virtual agents and chatbots: Virtual agents such as Apple's Siri and Amazon's Alexa use speech 
+recognition to recognize patterns in voice commands and natural language generation to respond with 
+appropriate action or helpful comments,
+
+d)Social media sentiment analysis: Sentiment analysis can analyze language used in social media posts, 
+responses, reviews, and more to extract attitudes and emotions in response to products, promotions, and 
+events–information companies can use in product designs, advertising campaigns, and more,
+
+e)Text summarization: Text summarization uses NLP techniques to digest huge volumes of digital text and 
+create summaries and synopses for indexes, research databases, or busy readers who don't have time to 
+read full text.
+
+Natural language processing and IBM Watson
+IBM has innovated in the artificial intelligence space by pioneering NLP driven tools and services that 
+enable organizations to automate their complex business processes while gaining essential business 
+insights.
+
+Watson Discovery
+a)Surface high quality answers and rich insights from your complex enterprise documents 
+tables, PDFs, big data and more with AI search.Enable your employees to make more informed decisions 
+and save time with real time search engine and text mining capabilities that perform text extraction and 
+analyze relationships and patterns buried in unstructured data.
+c)Watson Discovery leverages custom NLP 
+models and machine learning methods to provide users with AI that understands the unique language of 
+their industry and business.
+
+Watson Natural Language Understanding (NLU)
+a)Analyze text in unstructured data formats including HTML, 
+webpages, social media, and more,
+
+b)Increase your understanding of human language by leveraging this 
+natural language tool kit to identify concepts, keywords, categories, semantics, and emotions, and to 
+perform text classification, entity extraction, named entity recognition (NER), sentiment analysis, and 
+summarization.
+
+Watson Assistant
+a)Improve the customer experience while reducing costs,
+
+b)Watson Assistant is an AI chatbot 
+with an easy to use visual builder so you can deploy virtual agents across any channel, in minutes.
+
+Purpose built for healthcare and life sciences domains, IBM Watson Annotator for Clinical Data extracts 
+key clinical concepts from natural language text, like conditions, medications, allergies and procedures. 
+Deep contextual insights and values for key clinical attributes develop more meaningful data. Potential 
+data sources include clinical notes, discharge summaries, clinical trial protocols and literature data.
